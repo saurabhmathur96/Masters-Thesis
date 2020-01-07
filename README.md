@@ -20,3 +20,7 @@
 - (various) LSTM	
 - Variational RNN
 - Learned loss attenuation
+
+
+
+References: https://github.com/JavierAntoran/Bayesian-Neural-Networks
